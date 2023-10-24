@@ -1,0 +1,10 @@
+# Unreal Language Integration List
+
+| Language | Name | Link | Require Engine Change |
+|----------|------|------|-----------------------|
+| Lua | LuaMachine | https://github.com/rdeioris/LuaMachine | No |
+| Rust | unreal-ust | https://github.com/MaikKlein/unreal-rust | No |
+| Skookum | Skookum Script | https://skookumscript.com/ | No |
+| AngelScript | Angel Script | https://angelscript.hazelight.se/ | Yes |
+| Lua | LScript | https://lscript4unreal.sourceforge.net/ | No |
+| Javascript | Unreal.js | https://github.com/ncsoft/Unreal.js | No |
