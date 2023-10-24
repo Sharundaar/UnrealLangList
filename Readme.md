@@ -3,7 +3,7 @@
 | Language | Name | Link | Require Engine Change |
 |----------|------|------|-----------------------|
 | Lua | LuaMachine | https://github.com/rdeioris/LuaMachine | No |
-| Rust | unreal-ust | https://github.com/MaikKlein/unreal-rust | No |
+| Rust | unreal-rust | https://github.com/MaikKlein/unreal-rust | No |
 | Skookum | Skookum Script | https://skookumscript.com/ | No |
 | AngelScript | Angel Script | https://angelscript.hazelight.se/ | Yes |
 | Lua | LScript | https://lscript4unreal.sourceforge.net/ | No |
